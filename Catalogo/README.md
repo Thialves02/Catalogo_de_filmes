@@ -41,5 +41,5 @@ Open the CMD and type "pip install flask"
 #Clone this repository
 $ git clone https://github.com/Thialves02/Catalogo_de_filmes
 
-#Starting the game
+#Starting the website
 Run the python app on your IDE and open the given link from Terminal
