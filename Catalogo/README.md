@@ -24,6 +24,7 @@ The tools bellow were used on this project
 
 - [HMTL]
 - [CSS]
+- [JAVASCRIPT]
 - [PYTHON]
 - [FLASK]
 
