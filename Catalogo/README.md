@@ -24,7 +24,7 @@ The tools bellow were used on this project
 
 ## :white_check_mark: Requirements ##
 
-Before start the game, you need install [Git](https://git-scm.com), [Python](https://www.python.org), [Pip](https://pypi.org/project/pip/) and Flask installed on your computer.
+Before open the website, you need install [Git](https://git-scm.com), [Python](https://www.python.org), [Pip](https://pypi.org/project/pip/) and Flask installed on your computer.
 
 ## :checkered_flag: Starting ##
 
