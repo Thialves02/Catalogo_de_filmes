@@ -1,16 +1,10 @@
 <div align="center" id="top"> 
-  <img align="center" width="300px" src="https://gartic.com.br/imgs/mural/_v/_vorreipace_/ilha.png" alt="The_Island" />
+  <img align="center" width="300px" src="https://streamingsbrasil.com/wp-content/uploads/2019/12/Netflix-est%C3%A1-removendo-filmes-mais-r%C3%A1pido.jpg" alt="Catalogo_de_filmes" />
 
 &#xa0;
 </div>
 
 <h1 align="center">Movie Cataloge</h1>
-
-<p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/Thialves02/Catalogo_de_filmes?color=56BEB8">
-
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/Thialves02/Catalogo_de_filmes?color=56BEB8">
-</p>
 
 <br>
 
